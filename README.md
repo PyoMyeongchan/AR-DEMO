@@ -13,6 +13,13 @@ Unity의 AR Foundation을 활용한 AR 기술 연습 프로젝트
 
 ---
 
+## 🧭 추후 계획
+
+- **실물 트래킹 (3D Object Tracking) 기능 추가 예정**  
+  실제 물체(예: 컵, 장난감 등)를 인식하여 3D 콘텐츠를 오버레이하는 기능을 구현할 예정
+
+---
+
 > ✅ Unity + AR Foundation 기반  
 > ✅ Input System 기반 터치 인식  
 > ✅ Resources 폴더에서 오브젝트 이름과 매칭되는 UI 이미지 로드
