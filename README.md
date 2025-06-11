@@ -1,8 +1,8 @@
-# 📱 AR Foundation 연습 프로젝트
+# 📱 AR Foundation 연습
 
-Unity의 AR Foundation을 활용한 AR 기술 연습 프로젝트입니다.
+Unity의 AR Foundation을 활용한 AR 기술 연습 프로젝트
 
-## 🔧 주요 기능
+## 🔧 구현한 기능
 
 - **멀티 이미지 트래킹 (Multiple Image Tracking)**  
   여러 이미지를 동시에 인식하고, 각각에 대응하는 3D 오브젝트를 생성.
